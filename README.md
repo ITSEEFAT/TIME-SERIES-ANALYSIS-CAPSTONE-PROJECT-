@@ -142,7 +142,7 @@ Covers:
 
 ## Author
 
-**Aditya Chakraborty**  
-Ocean Engineering, IIT Kharagpur
+**SYED SEEFATUL HAQUE**  
+GLBITM
 
-GitHub: https://github.com/Adiborty-Code
+GitHub: https://github.com/ITSEEFAT
